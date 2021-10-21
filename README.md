@@ -32,3 +32,4 @@ Tên wifi và Pass mặc định (ở đây ta có thể thay thế được)
     
 Truy cập mặc định trên trình duyệt địa chỉ mặc định (có thể thay thế) là `192.168.4.1`
     
+![](https://raw.githubusercontent.com/VHAE04/install_esp8266_deauther/master/image_github/1.jpg)
