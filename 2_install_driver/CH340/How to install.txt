@@ -1,0 +1,7 @@
+- Kiem tra phien ban Windows  va System type dang su dung tren may tinh 
+	( My computer ( hoac This PC)  ---> ( chuot phai ) Properties )
+- Chon folder chua phien ban Window dang su dung.
+	Chon folder chua system type phu hop voi may tinh ( 32 hay 64 bit ) 
+- Click vao file SETUP ( hoac DRVSETUP64) chon Install 
+
+DONE !!!
